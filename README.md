@@ -11,7 +11,7 @@ A fully digital, FSM-based Stepper Motor Controller implemented in SystemVerilog
 
 The FPGA's GPIO pins interface with an L298 Dual H-Bridge Motor Driver to accurately control the coil sequences of a bipolar stepper motor.
 
-<img width="1201" height="632" alt="Full System" src="https://github.com/user-attachments/assets/ceb7e24d-b613-4ca8-ba11-9b1268fcedda" />
+<img width="601" height="332" alt="Full System" src="https://github.com/user-attachments/assets/ceb7e24d-b613-4ca8-ba11-9b1268fcedda" />
 
 ---
 
