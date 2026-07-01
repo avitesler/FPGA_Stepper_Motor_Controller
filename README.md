@@ -67,3 +67,20 @@ All detailed waveform captures and module-specific simulation close-ups can be f
 📝 **Full Verification Plan:**
 The complete verification methodology and test plan document is available here:
 [Click here to view the Test Plan](./docs/Verification_Test_Plan.pdf)
+
+---
+
+## 📬 Contact
+
+- **Author:** [Avi Tesler]
+- **Email:** [tesleravi1@gmail.com]
+ 
+- **LinkedIn:** [www.linkedin.com/in/avi-tesler-0016ab377]
+ 
+- **GitHub:** [https://github.com/avitesler]
+
+---
+
+## 📄 License
+
+This project is released under the [MIT License](LICENSE).
