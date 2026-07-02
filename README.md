@@ -3,9 +3,14 @@
 A fully digital, FSM-based Stepper Motor Controller implemented in SystemVerilog for FPGA applications.
 
 ## 🎥 Hardware Demonstration
-[בהמשך יעלה כאן סרטון של הצריבה על ה-FPGA]
+
+<img width="2016" height="1134" alt="FPGA 4" src="https://github.com/user-attachments/assets/fc2b7a94-eb9b-4ac2-a3e0-0a39922548ad" />
 
 *Above: The stepper motor being driven by the FPGA, demonstrating accurate speed control and direction switching.*
+
+▶️ **Watch the Full Hardware Demo:**
+Due to file size limits, the full video demonstrating the motor's real-time speed control and directional switching running on the FPGA is hosted in the documentation folder
+[Click here to watch the FPGA Hardware Demonstration Video](./docs/Stepper_Motor_on_FPGA.mp4)
 
 **Hardware Setup & Connections:**
 
