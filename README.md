@@ -68,11 +68,11 @@ Instead of manual wave inspection, the testbenches cover asynchronous reset reco
 
 📁 **Simulation Waveforms:**
 All detailed waveform captures and module-specific simulation close-ups can be found in the dedicated simulations folder: 
-[Click here to view the simulation screenshots](./docs/simulations)
+[Click here to view the simulation screenshots]([./docs/simulations)](https://github.com/avitesler/FPGA_Stepper_Motor_Controller/tree/main/Stepper_Motor_Controller/docs/simulations)
 
 📝 **Full Verification Plan:**
 The complete verification methodology and test plan document is available here:
-[Click here to view the Test Plan](./docs/Verification_Test_Plan.pdf)
+[Click here to view the Test Plan]([./docs/Verification_Test_Plan.pdf](https://github.com/avitesler/FPGA_Stepper_Motor_Controller/blob/main/Stepper_Motor_Controller/docs/Verification_Test_Plan.pdf))
 
 ---
 
