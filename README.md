@@ -11,7 +11,7 @@ A fully digital, FSM-based Stepper Motor Controller implemented in SystemVerilog
 ▶️ **Watch the Full Hardware Demo:**
 Due to file size limits, the full video demonstrating the motor's real-time speed control and directional switching running on the FPGA is hosted in the documentation folder under the name 'Stepper Motor on FPGA.mp4'.
 
-[Click here to watch the FPGA Hardware Demonstration Video]([./docs](https://github.com/avitesler/FPGA_Stepper_Motor_Controller/blob/main/Stepper_Motor_Controller/docs/Stepper%20Motor%20on%20FPGA.mp4))
+[Click here to watch the FPGA Hardware Demonstration Video]([./docs](<https://github.com/avitesler/FPGA_Stepper_Motor_Controller/blob/main/Stepper_Motor_Controller/docs/Stepper%20Motor%20on%20FPGA.mp4>))
 
 **Hardware Setup & Connections:**
 
